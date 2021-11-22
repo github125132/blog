@@ -1,0 +1,5 @@
+E:\yan\Cache> mklink /D "C:\Users\fx\AppData\Roaming\Unity" "E:\yan\Cache\UnityAssetStore"
+为 C:\Users\fx\AppData\Roaming\Unity <<===>> E:\yan\Cache\UnityAssetStore 创建的符号链接
+
+E:\yan\Cache> mklink /D "C:\Users\fx\AppData\Local\Unity" "E:\yan\Cache\Unity"
+为 C:\Users\fx\AppData\Local\Unity <<===>> E:\yan\Cache\Unity 创建的符号链接
